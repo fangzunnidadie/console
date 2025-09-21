@@ -1,4 +1,4 @@
 local banned = {
-  ["DanJiYYDS"] = "Reason",
+  ["DaJiYYDS"] = "Reason",
 }
 return banned
