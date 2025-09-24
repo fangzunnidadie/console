@@ -1,4 +1,4 @@
 local banned = {
-  ["CN_FANGZUN"] = "?",
+  ["nil"] = "?",
 }
 return banned
